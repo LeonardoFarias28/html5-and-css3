@@ -1,4 +1,9 @@
 # html5-and-css3
-Todos exercícios realizados no curso de html5 e css3
-Esse reposítorio tem como objetivo mostrar meus conhecimento em HTML5 e CSS3 adquiridos através do Curso em Vídeo realizado pela plataforma do Youtube. Como o curso em vídeo não
-disponibiliza um certificado , estou incluindo todos exercícios feitos junto com o curso.
+Este reposítorio tem como objetivo principal a inclusão de todos exercícios feitos no decorrer do curso de HTML5 e CSS3. O curso é disponibilizado pelo canal Curso em Vídeo um excelente curso lecionado pelo professor Gustavo Guanabara.
+
+# Tópicos abordados
+
+# Meu primeiro código
+# Paragráfos e quebras de linhas
+# Teste com imagens
+# Teste de favicon
