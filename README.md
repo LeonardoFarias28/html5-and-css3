@@ -3,7 +3,7 @@ Este reposítorio tem como objetivo principal a inclusão de todos exercícios f
 
 # Tópicos abordados
 
-# Meu primeiro código
-# Paragráfos e quebras de linhas
-# Teste com imagens
-# Teste de favicon
+- Meu primeiro código
+- Paragráfos e quebras de linhas
+- Teste com imagens
+- Teste de favicon
