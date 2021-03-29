@@ -11,3 +11,4 @@ Este reposítorio tem como objetivo principal a inclusão de todos exercícios f
 - Hierarquia de títulos
 - Exemplos de Semântica
 - Formatação de textos
+- Listas Ordenadas / não ordenadas
