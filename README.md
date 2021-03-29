@@ -7,3 +7,5 @@ Este reposítorio tem como objetivo principal a inclusão de todos exercícios f
 - Paragráfos e quebras de linhas
 - Teste com imagens
 - Teste de favicon
+- Emojis
+- Hierarquia de títulos
