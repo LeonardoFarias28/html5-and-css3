@@ -9,3 +9,5 @@ Este reposítorio tem como objetivo principal a inclusão de todos exercícios f
 - Teste de favicon
 - Emojis
 - Hierarquia de títulos
+- Exemplos de Semântica
+- Formatação de textos
