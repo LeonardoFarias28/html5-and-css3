@@ -3,6 +3,7 @@ Este reposítorio tem como objetivo principal a inclusão de todos exercícios f
 
 # Tópicos abordados
 
+- Desafios
 - Meu primeiro código
 - Paragráfos e quebras de linhas
 - Teste com imagens
@@ -12,3 +13,4 @@ Este reposítorio tem como objetivo principal a inclusão de todos exercícios f
 - Exemplos de Semântica
 - Formatação de textos
 - Listas Ordenadas / não ordenadas
+- Links externos e internos
