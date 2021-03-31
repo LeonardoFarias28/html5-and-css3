@@ -14,3 +14,4 @@ Este reposítorio tem como objetivo principal a inclusão de todos exercícios f
 - Formatação de textos
 - Listas Ordenadas / não ordenadas
 - Links externos e internos
+- Imagens dinâmicas
