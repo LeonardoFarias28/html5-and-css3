@@ -15,3 +15,4 @@ Este reposítorio tem como objetivo principal a inclusão de todos exercícios f
 - Listas Ordenadas / não ordenadas
 - Links externos e internos
 - Imagens dinâmicas
+- Colocando áudio
