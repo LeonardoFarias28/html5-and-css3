@@ -17,4 +17,5 @@ Este reposítorio tem como objetivo principal a inclusão de todos exercícios f
 - Imagens dinâmicas
 - Áudio
 - Vídeo
+- Cascading Style Sheets
 - CSS3 Externo, Inline, Interno
