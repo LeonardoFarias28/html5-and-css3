@@ -16,3 +16,5 @@ Este reposítorio tem como objetivo principal a inclusão de todos exercícios f
 - Links externos e internos
 - Imagens dinâmicas
 - Áudio
+- Vídeo
+- CSS3 Externo, Inline, Interno
